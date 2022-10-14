@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to right, #12312b, #1d4d3b);
+}
+
+.container-fluid input {
+  padding: 10px;
+  width: 100%;
+  background-color: transparent;
+  border-radius: 5px;
+  margin-top: 10px;
+  border: 2px solid #1d4d3b;
+  outline: none;
+  color: #32b887;
+}
+.container-fluid button {
+  width: 95%;
+  margin-top: 20px;
+  padding: 13px;
+  border: none;
+  color: #fff;
+  background-color: #2b7258;
+  margin-left: 13px;
+  border-radius: 5px;
+}
+.container-fluid .card {
+  background-color: transparent;
+  border: 1px solid #2b7258;
+  border-radius: 0;
+}
+.container-fluid .card .header {
+  background-color: rgb(21, 49, 39);
+  color: #32b887;
+}
+.container-fluid .card .header .h6 {
+  font-weight: 600;
+  margin-top: 3px;
+  margin-top: 7px;
+  margin-left: 10px;
+}
+.container-fluid .card .header svg {
+  margin-top: 7px;
+}
+
+.body .col-3 img {
+  width: 25px;
+  height: 25px;
+}
+
+.pr {
+  color: #32b887;
+  font-weight: bold;
+}
+
+.tb {
+  border-bottom: 1px dotted #238662;
+}
+
+.last {
+  border-bottom: none;
+}/*# sourceMappingURL=style.css.map */
